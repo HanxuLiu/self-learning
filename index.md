@@ -15,3 +15,7 @@
 ## 调试器
 
 - [Building a Debugger: Write a Native x64 Debugger From Scratch](https://hanxuliu.github.io/self-learning/debugger/Building_a_Debugger.html)
+
+## 编译器
+
+- [Getting Started with LLVM Core Libraries（中文版）](https://hanxuliu.github.io/self-learning/compiler/LLVM.html)
